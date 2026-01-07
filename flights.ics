@@ -2,101 +2,101 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Plane: СУ95 89065\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260112T212000Z
-DTSTART:20260112T121500Z
-SUMMARY:ПУЛКОВО-1 / УФА-1 / ПУЛКОВО-1
-UID:f80f0b96-e709-4a78-8867-d20b9e6a468d@f80f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plane: С9Н\nCrew: Кречетов А.В. (85118)<br />Рахманов Н.З. (130051)<br />Силкин Р.Е. (130575)<br />
-DTEND:20260118T130500Z
-DTSTART:20260118T060000Z
-SUMMARY:ПУЛКОВО-1 / АПАТИТЫ / ПУЛКОВО-1
-UID:1ff65557-307b-4d30-9242-7bd665e5974f@1ff6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plane: С9Н\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260116T212000Z
-DTSTART:20260116T121000Z
-SUMMARY:ПУЛКОВО-1 / УФА-1 / ПУЛКОВО-1
-UID:ba0dd0da-2e87-45d5-8d69-f209436e6228@ba0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plane: СУ95 89128\nCrew: Ваулин С.В. (77632)<br />Рахманов Н.З. (130051)<br />Филиппов А.А. (130564)<br />
-DTEND:20260103T104000Z
-DTSTART:20260103T040000Z
-SUMMARY:🆕 ПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:05a64ce6-cb4c-4598-abed-8534ea143653@05a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plane: СУ95\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260120T100000Z
-DTSTART:20260120T033000Z
+DESCRIPTION:ВС: СУ95\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260120T093500Z
+DTSTART:20260120T053000Z
 SUMMARY:ПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:e5870a4d-a564-4fdf-8c52-e0470df22cba@e587.org
+UID:87597a02-1fc6-47f1-b1e9-f36532fd94cb@8759.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Plane: С9Н 89044\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260113T175000Z
-DTSTART:20260113T112000Z
-SUMMARY:ПУЛКОВО-1 / АРХАНГСК / ПУЛКОВО-1
-UID:6773e0b1-7f88-49d3-80eb-d6c3a2031b38@6773.org
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВПл
+UID:4496ed97-0358-43cd-b54a-66c25db32112@4496.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Plane: С9Н / СУ95\nCrew: Туманов М.А. (2050) <br />\rРахманов Н.З. (130051) <br />\r
-DTEND:20260107T172500Z
-DTSTART:20260107T030000Z
+DESCRIPTION:ВС: С9Н 89044\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260104T142500Z
+DTSTART:20260104T044000Z
+SUMMARY:🆕 ПУЛКОВО-1 / УФА-1 / САМАРАКР / ПУЛКОВО-1
+UID:6d1c20d4-b0fe-447c-bc4a-f804407bcbfc@6d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н / СУ95\nЭкипаж: Туманов М.А. (2050)  \rРахманов Н.З. (130051)
+DTEND:20260107T170000Z
+DTSTART:20260107T050000Z
 SUMMARY:LED дневной резерв RRJ
-UID:e6c4bb0e-2729-4f99-9d9e-b2d691b90b6c@e6c4.org
+UID:09066811-6b33-44f7-882c-63c606f75a30@0906.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260206
-DESCRIPTION:Plane: \nCrew: 
+DESCRIPTION:ВС: \nЭкипаж: 
 SUMMARY:Плановый отпуск
-UID:8f532152-c5e0-4915-bd6d-f32a9ee07347@8f53.org
+UID:ab204243-1d48-4835-9a3e-0c2478ff34ab@ab20.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Plane: С9Н 89188\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260114T135000Z
-DTSTART:20260114T063000Z
-SUMMARY:ПУЛКОВО-1 / МУРМАНСК / ПУЛКОВО-1
-UID:bd008237-1a68-4593-8efc-8e8788e96e78@bd00.org
+DESCRIPTION:ВС: С9Н 89044\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260113T172500Z
+DTSTART:20260113T132000Z
+SUMMARY:ПУЛКОВО-1 / АРХАНГСК / ПУЛКОВО-1
+UID:c9e79d6b-6ec0-443b-9842-86c25d3be050@c9e7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Plane: С9Н 89044\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260104T145000Z
-DTSTART:20260104T024000Z
-SUMMARY:🆕 ПУЛКОВО-1 / УФА-1 / САМАРАКР / ПУЛКОВО-1
-UID:ac73480a-9a1b-4233-827b-d0aaf7d16eee@ac73.org
+DESCRIPTION:ВС: СУ95 89065\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260112T205500Z
+DTSTART:20260112T141500Z
+SUMMARY:ПУЛКОВО-1 / УФА-1 / ПУЛКОВО-1
+UID:1ba1b3a6-5dba-45d2-967d-c423da13ca56@1ba1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Plane: С9Н 89059\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260111T210500Z
-DTSTART:20260111T140500Z
-SUMMARY:ПУЛКОВО-1 / АПАТИТЫ / ПУЛКОВО-1
-UID:33c00da6-b4eb-4366-9a79-c854410ca525@33c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plane: СУ95 89025\nCrew: Рахманов Н.З. (130051)<br />Туманов М.А. (2050)<br />
-DTEND:20260109T103000Z
-DTSTART:20260109T040000Z
-SUMMARY:ПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:497aeef9-ed32-4cf3-8cb0-ed475f1be3d6@497a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260115
-DESCRIPTION:Plane: \nCrew: 
-SUMMARY:ВПл
-UID:40a9fbca-2c0f-46d2-99f7-cc7c1adc2fd5@40a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plane: СУ95\nCrew: 
-DTEND:20260108T151500Z
-DTSTART:20260108T054500Z
+DESCRIPTION:ВС: СУ95\nЭкипаж: 
+DTEND:20260108T145000Z
+DTSTART:20260108T074500Z
 STATUS:CANCELLED
 SUMMARY:❌ ПУЛКОВО-1 / ЕКАТЕРИН / ПУЛКОВО-1
-UID:60ea37ae-d140-4fbd-a6e6-68cc607f6181@60ea.org
+UID:ecc1b563-49bd-4b8f-abde-379f6205bb6f@ecc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260116T205500Z
+DTSTART:20260116T141000Z
+SUMMARY:ПУЛКОВО-1 / УФА-1 / ПУЛКОВО-1
+UID:708a8ee8-c7f1-48da-a4af-efc721a00878@708a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 89128\nЭкипаж: Ваулин С.В. (77632) Рахманов Н.З. (130051) Филиппов А.А. (130564)
+DTEND:20260103T101500Z
+DTSTART:20260103T060000Z
+SUMMARY:🆕 ПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:025185f1-a3e0-4dbc-b847-c4a8fb05d296@0251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89059\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260111T204000Z
+DTSTART:20260111T160500Z
+SUMMARY:ПУЛКОВО-1 / АПАТИТЫ / ПУЛКОВО-1
+UID:9266713f-c18a-448e-a445-beec04438aad@9266.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н\nЭкипаж: Кречетов А.В. (85118) Рахманов Н.З. (130051) Силкин Р.Е. (130575)
+DTEND:20260118T124000Z
+DTSTART:20260118T080000Z
+SUMMARY:ПУЛКОВО-1 / АПАТИТЫ / ПУЛКОВО-1
+UID:9f9bf727-9f39-4590-b2d5-22737bf9779c@9f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 89025\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260109T100500Z
+DTSTART:20260109T060000Z
+SUMMARY:ПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:afd8e1a1-aca7-4db4-bbba-dcacaa9491d4@afd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89188\nЭкипаж: Рахманов Н.З. (130051) Туманов М.А. (2050)
+DTEND:20260114T132500Z
+DTSTART:20260114T083000Z
+SUMMARY:ПУЛКОВО-1 / МУРМАНСК / ПУЛКОВО-1
+UID:e0f63e21-6eee-4438-9d17-23abdff90d8a@e0f6.org
 END:VEVENT
 END:VCALENDAR
