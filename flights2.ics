@@ -2,58 +2,58 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ВС: А-319 73198 / 73216 / 73186 / 73220\nЭкипаж: Андрюкова Е.А. (130019) Березенко А.И. (123455) Рева А.С. (93166) Филимонов А.Ю. (85111)
-DTEND:20260121T174000Z
-DTSTART:20260117T194000Z
-SUMMARY:ПУЛКОВО-1 / КРАСНЯРС-1 / ВЛАДСТОК / УЛАНУДЭ / КРАСНЯРС-1 / ПУЛКОВО-1
-UID:cbebca97-9233-47ea-9f6c-3d3be30bbc41@cbeb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-DTEND;VALUE=DATE:20260206
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:Плановый отпуск
-UID:ab38b209-5eee-454f-9251-c902a08203bc@ab38.org
+DESCRIPTION:ВС: А-320 73214\nЭкипаж: Андрюкова Е.А. (130019) Полковых А.В. (76466) Ямбаев М.Ю. (130405)
+DTEND:20260111T034000Z
+DTSTART:20260110T183500Z
+SUMMARY:🆕 ПУЛКОВО-1 / ОМСК / ПУЛКОВО-1
+UID:5986051e-4c4f-4514-90af-943669b50902@5986.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260102
 DESCRIPTION:ВС: \nЭкипаж: 
 SUMMARY:🆕 ВПЗ (выходной)
-UID:c323a3d1-3d70-41d9-b19a-7a081e227d61@c323.org
+UID:25cf5951-584d-4de2-aa0b-090c58e0b8bd@25cf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: А-320 73214\nЭкипаж: Андрюкова Е.А. (130019) Полковых А.В. (76466) Ямбаев М.Ю. (130405)
-DTEND:20260111T034000Z
-DTSTART:20260110T183500Z
-SUMMARY:🆕 ПУЛКОВО-1 / ОМСК / ПУЛКОВО-1
-UID:5f55f51a-da6d-4a8c-b1b3-e5e4abf89390@5f55.org
+DESCRIPTION:ВС: А-319 73186 / 73198 / 73220\nЭкипаж: Андрюкова Е.А. (130019) Медведев В.А. (87969) Рева А.С. (93166) Филимонов А.Ю. (85111)
+DTEND:20260121T174000Z
+DTSTART:20260117T194000Z
+SUMMARY:ПУЛКОВО-1 / КРАСНЯРС-1 / ВЛАДСТОК / УЛАНУДЭ / КРАСНЯРС-1 / ПУЛКОВО-1
+UID:94d949b0-7382-4483-bca9-0cd45b9d6f64@94d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВЛП (Т)+ПРЕДВ с 14:00
+UID:8c4cf4b9-472c-4a51-b6e1-f6f4c04e84c4@8c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A 73196 / 73204\nЭкипаж: Андрюкова Е.А. (130019) Филимонов А.Ю. (85111)
+DTEND:20260114T091500Z
+DTSTART:20260113T033500Z
+SUMMARY:🆕 ПУЛКОВО-1 / СОЧИ / ПУЛКОВО-1
+UID:1d1f46af-e954-4e2e-a8e7-f0091dffbe1d@1d1f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: А-319 73206\nЭкипаж: Андрюкова Е.А. (130019) Филимонов А.Ю. (85111)
 DTEND:20260107T223000Z
 DTSTART:20260107T121500Z
 SUMMARY:🆕 ПУЛКОВО-1 / СОЧИ / ПУЛКОВО-1
-UID:0810b1fb-e44d-4b0b-8e7f-9e56831c79cf@0810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A 73196 / 73204\nЭкипаж: Андрюкова Е.А. (130019) Филимонов А.Ю. (85111)
-DTEND:20260114T091500Z
-DTSTART:20260113T033500Z
-SUMMARY:ПУЛКОВО-1 / СОЧИ / ПУЛКОВО-1
-UID:061fe108-1632-4476-b8c9-3384af633621@061f.org
+UID:9afdf44a-d75b-4ce6-bef2-ced9f34da600@9afd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: А-319 73206\nЭкипаж: Андрюкова Е.А. (130019) Филимонов А.Ю. (85111)
 DTEND:20260102T135000Z
 DTSTART:20260102T045500Z
 SUMMARY:🆕 ПУЛКОВО-1 / ГРОЗНЫЙ / ПУЛКОВО-1
-UID:5fc356be-88ba-4691-98cc-6e16606cb784@5fc3.org
+UID:1cef3101-e27e-40d3-9bcf-747a6bd58826@1cef.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260115
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260206
 DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:ВЛП (Т)+ПРЕДВ с 14:00
-UID:d010fd23-f25b-447c-9278-bd860576ac43@d010.org
+SUMMARY:Плановый отпуск
+UID:4f7eb4d8-aaeb-4aa1-a040-4b00b742b3dd@4f7e.org
 END:VEVENT
 END:VCALENDAR
