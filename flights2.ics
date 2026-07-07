@@ -2,99 +2,106 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20260723T073500Z
-DTSTART:20260722T222500Z
-SUMMARY:FV6523/FV6524\nПУЛКОВО-1 / НУРСУЛТА-1 / ПУЛКОВО-1
-UID:034d3300-0e47-4ad9-ad6e-79f2ab7b3dba@034d.org
+DESCRIPTION:ВС: A-32A\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
+DTEND:20260730T075000Z
+DTSTART:20260729T160500Z
+SUMMARY:ФВ6859/ФВ6860\nПУЛКОВО-1 / МИНВОДЫ / ПУЛКОВО-1
+UID:f828610b-cea1-4bfa-9232-aa7d9fedd95f@f828.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A / А-319 / А-320\nЭкипаж: Шувариков Н.А. (51450)  \rАндрюкова Е.А. (130019)
-DTEND:20260726T050000Z
-DTSTART:20260725T170000Z
-SUMMARY:LED ночной резерв A320 ВВЛ ДОМ\nПЛК
-UID:b4b6f7ed-417d-48e8-9fb4-d7ca652aa0df@b4b6.org
+DESCRIPTION:ВС: А-319 73203\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
+DTEND:20260716T114500Z
+DTSTART:20260716T060000Z
+SUMMARY:ФВ6583/ФВ6584\nПУЛКОВО-1 / ПЕРМЬ / ПУЛКОВО-1
+UID:9963f646-7a41-4b19-8a13-ea762d7891cf@9963.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: A-32A 73195\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
 DTEND:20260702T044500Z
 DTSTART:20260701T184500Z
 SUMMARY:ФВ6541/ФВ6542\nПУЛКОВО-1 / НОВОСИБТ / ПУЛКОВО-1
-UID:bd6e074b-662a-4797-a07f-5b2de2c777db@bd6e.org
+UID:01fc5295-cfd9-40ee-99ac-3ff15a235b8b@01fc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: А-320 73197\nЭкипаж: Андрюкова Е.А. (130019) Кизер А.Л. (76427)
-DTEND:20260706T043000Z
-DTSTART:20260705T200000Z
-SUMMARY:ФВ6471/ФВ6472\nПУЛКОВО-1 / ОМСК / ПУЛКОВО-1
-UID:721cc91f-f8e2-4913-81fc-a6ca780ce9e9@721c.org
+DESCRIPTION:ВС: A-32A / А-319 / А-320\nЭкипаж: Рудич К.В. (18090)  \rАндрюкова Е.А. (130019)
+DTEND:20260709T050000Z
+DTSTART:20260708T170000Z
+SUMMARY:LED ночной резерв A320 МВЛ\nПЛК
+UID:4752a04c-468b-48ac-a1a0-846e235fd893@4752.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:ВС: \nЭкипаж: 
 SUMMARY:ВПЗ (выходной)\n-
-UID:d73a06cc-14d7-4877-95aa-9cf4aa1bb9b3@d73a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-320 73197\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20260708T040500Z
-DTSTART:20260707T212000Z
-SUMMARY:ФВ6401/ФВ6402\nПУЛКОВО-1 / ЕКАТЕРИН / ПУЛКОВО-1
-UID:21d7e64f-3f78-4534-b7ce-20dfd9fd11cd@21d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20260716T114500Z
-DTSTART:20260716T060000Z
-SUMMARY:ФВ6583/ФВ6584\nПУЛКОВО-1 / ПЕРМЬ / ПУЛКОВО-1
-UID:ee92376c-4cc5-4549-b6df-7ab115b62264@ee92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A\nЭкипаж: Андрюкова Е.А. (130019) Наталенко С.А. (31012)
-DTEND:20260724T150000Z
-DTSTART:20260724T062500Z
-SUMMARY:ФВ6473/ФВ6474\nПУЛКОВО-1 / ОМСК / ПУЛКОВО-1
-UID:ca3b432e-d206-43fd-9db0-4bb2de47454f@ca3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20260730T055500Z
-DTSTART:20260729T160500Z
-SUMMARY:ФВ6859/ФВ6860\nПУЛКОВО-1 / МИНВОДЫ / ПУЛКОВО-1
-UID:0c03550a-1158-4ada-99c3-242e5f7800d3@0c03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20260728T201000Z
-DTSTART:20260728T101500Z
-SUMMARY:ФВ6561/ФВ6562\nПУЛКОВО-1 / СОЧИ / ПУЛКОВО-1
-UID:874f76d6-8d67-431d-8274-9810481a68af@874f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:ВПЗ (выходной)\n-
-UID:de75e626-7b2e-419b-a046-724ce14bab0d@de75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-319 73221 /\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20260715T064000Z
-DTSTART:20260714T223000Z
-SUMMARY:ФВ6111/ФВ6112\nПУЛКОВО-1 / НВАРТОВС / ПУЛКОВО-1
-UID:d031cdf6-b856-44a3-b00d-1aa236091ff7@d031.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20260731T133500Z
-DTSTART:20260731T045500Z
-SUMMARY:ФВ6133/ФВ6134\nПУЛКОВО-1 / ГРОЗНЫЙ / ПУЛКОВО-1
-UID:51694ba9-49df-4e77-9359-fc4404ac0600@5169.org
+UID:f33ef37a-d632-4059-aaeb-87b615bc8205@f33e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: А-319 73205\nЭкипаж: Андрюкова Е.А. (130019) Курников А.В. (119973)
 DTEND:20260704T143500Z
 DTSTART:20260704T073500Z
 SUMMARY:ФВ6463/ФВ6464\nПУЛКОВО-1 / ЧЕЛЯБИНС / ПУЛКОВО-1
-UID:23ba1c07-308f-487d-8b3b-faae3c1b8ae3@23ba.org
+UID:3b3434ba-b66e-4127-a580-aa8b6e4972ae@3b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
+DTEND:20260731T133500Z
+DTSTART:20260731T045500Z
+SUMMARY:ФВ6133/ФВ6134\nПУЛКОВО-1 / ГРОЗНЫЙ / ПУЛКОВО-1
+UID:85d7f11c-088e-4fff-97bd-c95566e3d963@85d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-320\nЭкипаж: Андрюкова Е.А. (130019) Ишуков А.А. (90046) Косяченко М.В. (20404)
+DTEND:20260720T181500Z
+DTSTART:20260720T092000Z
+SUMMARY:ФВ6353/ФВ6354\nПУЛКОВО-1 / МИНВОДЫ / ПУЛКОВО-1
+UID:69241e40-112c-4b95-9579-5c4b3c26ea9b@6924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A / А-319 / А-320\nЭкипаж: Шувариков Н.А. (51450)  \rАндрюкова Е.А. (130019)
+DTEND:20260726T050000Z
+DTSTART:20260725T170000Z
+SUMMARY:LED ночной резерв A320 ВВЛ ДОМ\nПЛК
+UID:2fee3249-862f-49b0-964e-bdd75651795e@2fee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
+DTEND:20260723T073500Z
+DTSTART:20260722T222500Z
+SUMMARY:FV6523/FV6524\nПУЛКОВО-1 / НУРСУЛТА-1 / ПУЛКОВО-1
+UID:fd5adf12-881f-4867-a0b3-1f6c4b581009@fd5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВПЗ (выходной)\n-
+UID:0a932942-192c-4b0f-8546-c56cbf658aca@0a93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A\nЭкипаж: Андрюкова Е.А. (130019) Наталенко С.А. (31012)
+DTEND:20260724T150000Z
+DTSTART:20260724T062500Z
+SUMMARY:ФВ6473/ФВ6474\nПУЛКОВО-1 / ОМСК / ПУЛКОВО-1
+UID:5efb3276-d496-4359-9742-adcc06e50a1c@5efb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-319 73222\nЭкипаж: Андрюкова Е.А. (130019) Волков С.Н. (2336)
+DTEND:20260708T032500Z
+DTSTART:20260707T193500Z
+SUMMARY:ФВ6441/ФВ6442\nПУЛКОВО-1 / СУРГУТ / ПУЛКОВО-1
+UID:ab9ba384-6712-4ee8-ad10-4685ffe3647b@ab9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-320 73197\nЭкипаж: Андрюкова Е.А. (130019) Долгов А.О. (123503) Кизер А.Л. (76427) Николаев Н.А. (128369)
+DTEND:20260706T093000Z
+DTSTART:20260705T200000Z
+SUMMARY:ФВ6471/ФВ6472/ФВ6472п\nПУЛКОВО-1 / ОМСК / ВНУКОВО-A / ПУЛКОВО-1
+UID:66cafe1a-4542-4a04-8fee-fbb0c04433d4@66ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-319 73216\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
+DTEND:20260715T064000Z
+DTSTART:20260714T223000Z
+SUMMARY:ФВ6111/ФВ6112\nПУЛКОВО-1 / НВАРТОВС / ПУЛКОВО-1
+UID:bdb5a6a4-7af5-4c61-8842-854540719bb5@bdb5.org
 END:VEVENT
 END:VCALENDAR
