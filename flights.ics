@@ -2,154 +2,154 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:ВПл (выходной)\n-
-UID:e35e8e48-db1d-4fdf-bf1b-4e6ce9895190@e35e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89173\nЭкипаж: Круглов Р.Ю. (88009) Лапанович С.В. (129210) Рахманов Н.З. (130051)
-DTEND:20260810T165500Z
-DTSTART:20260810T101000Z
-SUMMARY:ФВ6417/ФВ6418\nПУЛКОВО-1 / ЕКАТЕРИН / ПУЛКОВО-1
-UID:d67b5433-eacb-4952-a8f3-9ab33ea0f030@d67b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н\nЭкипаж: Олейник Е.Г. (124742) Рахманов Н.З. (130051)
-DTEND:20260817T075500Z
-DTSTART:20260817T032000Z
-SUMMARY:ФВ6333/ФВ6334\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
-UID:1fef6dbb-7dc2-47d9-85e5-4268508af561@1fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89146\nЭкипаж: Войтенко П.А. (59087) Рахманов Н.З. (130051)
-DTEND:20260804T173500Z
-DTSTART:20260804T125000Z
-SUMMARY:ФВ6335/ФВ6336\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
-UID:1afc528a-ff3c-458c-aeb8-89346cef6186@1afc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 / СУ95\nЭкипаж: Рахманов Н.З. (130051) Тарасенко Н.Ю. (124893)
-DTEND:20260820T180000Z
-DTSTART:20260820T090000Z
-SUMMARY:ФВ6025/ФВ6026 // ФВ6177/ФВ6178\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1 // ПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:178ccb0f-6528-4571-b836-80aa157f04d4@178c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89147\nЭкипаж: Олейник Е.Г. (124742) Рахманов Н.З. (130051)
-DTEND:20260803T035500Z
-DTSTART:20260802T204500Z
-SUMMARY:ФВ6451/ФВ6452\nПУЛКОВО-1 / ТЮМЕНЬ / ПУЛКОВО-1
-UID:24cea091-5e92-4848-ade3-9900277debfe@24ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260910
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:Плановый отпуск\n
-UID:24a6996d-73d9-4a62-bf09-5a480f484356@24a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89056\nЭкипаж: Рахманов Н.З. (130051) Тагиров Р.З. (84826)
-DTEND:20260808T100000Z
+DESCRIPTION:ВС: СУ95 89123\nЭкипаж: Рахманов Н.З. (130051) Тагиров Р.З. (84826)
+DTEND:20260808T103000Z
 DTSTART:20260808T060000Z
 SUMMARY:ФВ6005/ФВ6006\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:c19efede-c349-4ba1-92ee-083f575e54e6@c19e.org
+UID:9b1edbad-79f3-480f-9794-6a7ab30b5166@9b1e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89060\nЭкипаж: Коротков В.А. (120999) Рахманов Н.З. (130051)
-DTEND:20260801T122000Z
-DTSTART:20260801T065000Z
-SUMMARY:ФВ6593/ФВ6594\nПУЛКОВО-1 / КАЗАНЬ / ПУЛКОВО-1
-UID:175c1e97-d01e-4c71-ac86-c07d5ed4863f@175c.org
+DESCRIPTION:ВС: СУ95\nЭкипаж: Рахманов Н.З. (130051)
+DTEND:20260818T100000Z
+DTSTART:20260818T060000Z
+SUMMARY:ФВ6005/ФВ6006\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:bcd2922f-ccb0-42c4-9396-9ad91b0788cd@bcd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: С9Н 89051\nЭкипаж: Дятлов А.И. (104127) Кузнецов А.Н. (124451) Рахманов Н.З. (130051)
 DTEND:20260805T131000Z
 DTSTART:20260805T081000Z
 SUMMARY:ФВ6321/ФВ6322\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
-UID:b69b6036-0bcd-46fd-aed0-549d72da0b93@b69b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95\nЭкипаж: Андрианов М.С. (121448) Рахманов Н.З. (130051)
-DTEND:20260818T100000Z
-DTSTART:20260818T060000Z
-SUMMARY:ФВ6005/ФВ6006\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:eb1ad6c3-f9a3-45aa-acd7-988a5838470a@eb1a.org
+UID:2a8cb255-9e84-4ea4-9ee4-9dfdc44f605d@2a8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: С9Н / СУ95\nЭкипаж: Ефремов А.Г. (85113)  \rРахманов Н.З. (130051)
 DTEND:20260809T170000Z
 DTSTART:20260809T050000Z
 SUMMARY:LED дневной резерв RRJ\nПЛК
-UID:14c95c7b-f69a-4c35-881f-cb4c9817a2d1@14c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н\nЭкипаж: Платонов Д.А. (72028) Рахманов Н.З. (130051)
-DTEND:20260815T210000Z
-DTSTART:20260815T170000Z
-SUMMARY:ФВ6183/ФВ6184\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:efd91158-2dd7-49d1-8a46-77e9b0ef17b3@efd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н\nЭкипаж: Губарь Г.В. (121445) Рахманов Н.З. (130051)
-DTEND:20260826T124500Z
-DTSTART:20260826T081000Z
-SUMMARY:ФВ6321/ФВ6322\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
-UID:86f7ba56-03fb-4343-a22e-13116dc8c183@86f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:ВПл (выходной)\n-
-UID:1f6a1d1b-23b2-40bb-9bb8-c6090319e0d0@1f6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н\nЭкипаж: Андрианов М.С. (121448) Рахманов Н.З. (130051)
-DTEND:20260819T075500Z
-DTSTART:20260819T040000Z
-SUMMARY:ФВ6051/ФВ6052\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:25b8fd47-fc7d-472a-80c4-5845f88d4861@25b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89110\nЭкипаж: Рахманов Н.З. (130051) Феоктистов Р.А. (125064)
-DTEND:20260811T220000Z
-DTSTART:20260811T180000Z
-SUMMARY:ФВ6185/ФВ6186\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:6f917b37-ff0b-4cad-bb83-02c066189f87@6f91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н / СУ95\nЭкипаж: Дулгир О.П. (86096)  \rРахманов Н.З. (130051)
-DTEND:20260823T050000Z
-DTSTART:20260822T170000Z
-SUMMARY:LED ночной резерв RRJ\nПЛК
-UID:f248af2c-5d06-4ea3-aec8-6f1fd97cb909@f248.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89173\nЭкипаж: Лебедкин И.А. (20425) Рахманов Н.З. (130051)
-DTEND:20260806T084500Z
-DTSTART:20260806T043000Z
-SUMMARY:ФВ6303/ФВ6304\nПУЛКОВО-1 / АРХАНГСК / ПУЛКОВО-1
-UID:c202f22a-2af2-47dc-bc9d-45391dac4348@c202.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:ВПл (выходной)\n-
-UID:5e55089d-144a-4ee1-84ee-7f2fc001a0f3@5e55.org
+UID:12e28cf4-4ec0-4193-aa1e-a1815baf1dc1@12e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: С9Н\nЭкипаж: Беглов С.С. (92010) Рахманов Н.З. (130051)
 DTEND:20260825T035500Z
 DTSTART:20260824T204500Z
 SUMMARY:ФВ6451/ФВ6452\nПУЛКОВО-1 / ТЮМЕНЬ / ПУЛКОВО-1
-UID:b852882a-38ac-4e9f-8717-5819e2bbe3a6@b852.org
+UID:d3009d23-0651-4de3-8d59-a32da731fae4@d300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89173\nЭкипаж: Лебедкин И.А. (20425) Рахманов Н.З. (130051)
+DTEND:20260806T084500Z
+DTSTART:20260806T043000Z
+SUMMARY:ФВ6303/ФВ6304\nПУЛКОВО-1 / АРХАНГСК / ПУЛКОВО-1
+UID:a838a6aa-0804-486a-b351-0b7a3be3d4f4@a838.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВПл (выходной)\n-
+UID:64faa30c-22a6-4c28-8ee8-268e3c6d7c81@64fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 / СУ95\nЭкипаж: Рахманов Н.З. (130051) Тарасенко Н.Ю. (124893)
+DTEND:20260820T180000Z
+DTSTART:20260820T090000Z
+SUMMARY:ФВ6025/ФВ6026 // ФВ6177/ФВ6178\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1 // ПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:051b47c2-8c4f-4e3c-aefa-d49fa83e5c69@051b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н / СУ95\nЭкипаж: Дулгир О.П. (86096)  \rРахманов Н.З. (130051)
+DTEND:20260823T050000Z
+DTSTART:20260822T170000Z
+SUMMARY:LED ночной резерв RRJ\nПЛК
+UID:2f9d203e-6b46-4fbe-bf93-fed824403f8a@2f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н\nЭкипаж: Андрианов М.С. (121448) Рахманов Н.З. (130051)
+DTEND:20260819T075500Z
+DTSTART:20260819T040000Z
+SUMMARY:ФВ6051/ФВ6052\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:1cd84b5e-f038-4a14-9ac1-f2b5680526e4@1cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260910
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:Плановый отпуск\n
+UID:8b014ca4-d79a-4377-96c8-2f045b147c65@8b01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89052\nЭкипаж: Круглов Р.Ю. (88009) Лапанович С.В. (129210) Рахманов Н.З. (130051)
+DTEND:20260810T165500Z
+DTSTART:20260810T101000Z
+SUMMARY:ФВ6417/ФВ6418\nПУЛКОВО-1 / ЕКАТЕРИН / ПУЛКОВО-1
+UID:8f71d339-0ecf-4517-bf97-cd687e7938d1@8f71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 89060\nЭкипаж: Коротков В.А. (120999) Рахманов Н.З. (130051)
+DTEND:20260801T122000Z
+DTSTART:20260801T065000Z
+SUMMARY:ФВ6593/ФВ6594\nПУЛКОВО-1 / КАЗАНЬ / ПУЛКОВО-1
+UID:9297216f-116a-4901-93ea-80c314c28f21@9297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89146\nЭкипаж: Войтенко П.А. (59087) Рахманов Н.З. (130051)
+DTEND:20260804T173500Z
+DTSTART:20260804T125000Z
+SUMMARY:ФВ6335/ФВ6336\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
+UID:6967b979-02fd-4b6d-8ea6-7b90fdf7f43e@6967.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВПл (выходной)\n-
+UID:c0ad127d-f2cb-46fb-9460-3e2b06d523af@c0ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: СУ95 89099\nЭкипаж: Бандурин А.В. (67886) Рахманов Н.З. (130051)
 DTEND:20260812T200000Z
 DTSTART:20260812T160000Z
 SUMMARY:ФВ6181/ФВ6182\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:ad3538f7-428a-4b94-9645-294e28991407@ad35.org
+UID:6476e8de-729c-48ec-abc5-9b4a55de9ec6@6476.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 89056\nЭкипаж: Евдокимов П.Ю. (120001) Рахманов Н.З. (130051)
+DTEND:20260811T220000Z
+DTSTART:20260811T180000Z
+SUMMARY:ФВ6185/ФВ6186\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:32839f1d-9ac0-4eb5-938d-6f44170aee48@3283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н\nЭкипаж: Олейник Е.Г. (124742) Рахманов Н.З. (130051)
+DTEND:20260817T075500Z
+DTSTART:20260817T032000Z
+SUMMARY:ФВ6333/ФВ6334\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
+UID:aedae7e0-667b-404b-a84a-4ae463ba07b9@aeda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89147\nЭкипаж: Олейник Е.Г. (124742) Рахманов Н.З. (130051)
+DTEND:20260803T035500Z
+DTSTART:20260802T204500Z
+SUMMARY:ФВ6451/ФВ6452\nПУЛКОВО-1 / ТЮМЕНЬ / ПУЛКОВО-1
+UID:df6261fc-7056-4851-b992-76f1f681b225@df62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н\nЭкипаж: Губарь Г.В. (121445) Рахманов Н.З. (130051)
+DTEND:20260826T124500Z
+DTSTART:20260826T081000Z
+SUMMARY:ФВ6321/ФВ6322\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
+UID:1e343d2d-3a33-4ce2-b6d2-645938fbe88b@1e34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89059\nЭкипаж: Платонов Д.А. (72028) Рахманов Н.З. (130051)
+DTEND:20260815T210000Z
+DTSTART:20260815T170000Z
+SUMMARY:ФВ6183/ФВ6184\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:57eecc25-eee5-421e-b9b9-2434cddf7e37@57ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВПл (выходной)\n-
+UID:c4e12d41-d5f3-4160-903c-f817db3b350a@c4e1.org
 END:VEVENT
 END:VCALENDAR
