@@ -2,73 +2,73 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ВС: А-320 73217\nЭкипаж: Андрюкова Е.А. (130019) Филимонов А.Ю. (85111)
-DTEND:20260805T161000Z
-DTSTART:20260805T101000Z
-SUMMARY:ФВ6595/ФВ6596\nПУЛКОВО-1 / КАЗАНЬ / ПУЛКОВО-1
-UID:b62cde81-d4fc-4d62-93a2-b00a017b5967@b62c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ВС: А-319 73186\nЭкипаж: Андрюкова Е.А. (130019) Поздняков А.О. (76407)
 DTEND:20260817T081000Z
 DTSTART:20260817T033000Z
 SUMMARY:ФВ6341/ФВ6342\nПУЛКОВО-1 / МУРМАНСК / ПУЛКОВО-1
-UID:d529f8d6-350d-4b28-9355-6dd6b1bd2cba@d529.org
+UID:10d122ee-08c1-4c3c-86c5-c2b99ba05be0@10d1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A 73196 / 73214 /  / 73217\nЭкипаж: Андрюкова Е.А. (130019) Геращенко В.Е. (96470) Кибаль А.П. (120713) Соколов Д.О. (120714)
-DTEND:20260821T191000Z
-DTSTART:20260819T055500Z
-SUMMARY:ФВ6563/ФВ6643/ФВ6654/ФВ6560п\nПУЛКОВО-1 / СОЧИ / НИЖНОВГР / СОЧИ / ПУЛКОВО-1
-UID:f0f395a9-7989-450c-95ea-c80519b468c8@f0f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: \nЭкипаж: 
-DTEND:20260820T190000Z
-DTSTART:20260820T070000Z
-SUMMARY:РЕЗЕРВ Сочи\nСочи
-UID:19eeaabf-4576-4c54-9e59-48d67a4337ff@19ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-319 73215\nЭкипаж: Андрюкова Е.А. (130019) Киселев Н.А. (89727)
-DTEND:20260803T075000Z
-DTSTART:20260802T234000Z
-SUMMARY:ФВ6111/ФВ6112\nПУЛКОВО-1 / НВАРТОВС / ПУЛКОВО-1
-UID:8ac41b6c-5f9b-4ce2-a568-c0c240d64905@8ac4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260902
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:ВПЗ (выходной)\n-
-UID:8597f238-7954-49ae-a096-373002e60a1f@8597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-319 73200 / 73206 / 73204 / 73205\nЭкипаж: Андрюкова Е.А. (130019) Попов Д.Н. (89766)
-DTEND:20260814T180500Z
-DTSTART:20260809T205000Z
-SUMMARY:ФВ6475/ФВ5755/ФВ5756/ФВ6572\nПУЛКОВО-1 / КРАСНЯРС-1 / ХАБАРОВС / КРАСНЯРС-1 / ПУЛКОВО-1
-UID:640c42f7-0290-4f02-a98b-e946d1f6ebce@640c.org
+DESCRIPTION:ВС: A-32A 73196 / 73219 / 73220 / 73203\nЭкипаж: Андрюкова Е.А. (130019) Плисюк О.В. (51422)
+DTEND:20260829T080000Z
+DTSTART:20260824T170500Z
+SUMMARY:ФВ6573/ФВ2457/ФВ2458/ФВ6476\nПУЛКОВО-1 / КРАСНЯРС-1 / ХОМУТОВО / КРАСНЯРС-1 / ПУЛКОВО-1
+UID:e4c8121f-172c-47c2-aaa1-46481da0215e@e4c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: A-32A 73196\nЭкипаж: Андрюкова Е.А. (130019) Кизер А.Л. (76427) Плисюк О.В. (51422)
 DTEND:20260801T091500Z
 DTSTART:20260731T221500Z
 SUMMARY:ФВ6437/ФВ6438\nПУЛКОВО-1 / ГОРНОАЛТ / ПУЛКОВО-1
-UID:622f2a6f-ac8c-4020-b33c-326d1a06d054@622f.org
+UID:c8220bcc-1f12-451c-891c-cad2aef313de@c822.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A 73196 / 73202 / 73186 /\nЭкипаж: Андрюкова Е.А. (130019) Плисюк О.В. (51422)
-DTEND:20260829T080000Z
-DTSTART:20260824T170500Z
-SUMMARY:ФВ6573/ФВ2457/ФВ2458/ФВ6476\nПУЛКОВО-1 / КРАСНЯРС-1 / ХОМУТОВО / КРАСНЯРС-1 / ПУЛКОВО-1
-UID:8c46453e-8fa7-4460-952f-90c1f81fadb0@8c46.org
+DESCRIPTION:ВС: А-319 73200 / 73206 / 73204 / 73205\nЭкипаж: Андрюкова Е.А. (130019) Попов Д.Н. (89766)
+DTEND:20260814T180500Z
+DTSTART:20260809T205000Z
+SUMMARY:ФВ6475/ФВ5755/ФВ5756/ФВ6572\nПУЛКОВО-1 / КРАСНЯРС-1 / ХАБАРОВС / КРАСНЯРС-1 / ПУЛКОВО-1
+UID:3455f52b-b1fc-4b48-b5d1-7cebb3383246@3455.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: \nЭкипаж: 
+DTEND:20260820T190000Z
+DTSTART:20260820T070000Z
+SUMMARY:РЕЗЕРВ Сочи\nСочи
+UID:7bbc4306-5f72-4863-ba36-45e86841ac35@7bbc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: A-32A 73213\nЭкипаж: Андрюкова Е.А. (130019) Филимонов А.Ю. (85111)
 DTEND:20260804T132500Z
 DTSTART:20260804T070500Z
 SUMMARY:ФВ6239/ФВ6240\nПУЛКОВО-1 / САМАРАКР / ПУЛКОВО-1
-UID:07c45b52-859f-473d-ae69-235bc8eb614a@07c4.org
+UID:855dc42d-ac1e-4598-875f-ab0192e3c3a5@855d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A 73196 / 73214 / 73217\nЭкипаж: Андрюкова Е.А. (130019) Кибаль А.П. (120713)
+DTEND:20260821T225500Z
+DTSTART:20260819T055500Z
+SUMMARY:ФВ6563/ФВ6643/ФВ6654/ФВ6564\nПУЛКОВО-1 / СОЧИ / НИЖНОВГР / СОЧИ / ПУЛКОВО-1
+UID:2d5759ae-2993-49e8-bd48-e8ae3ad8e31d@2d57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260902
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВПЗ (выходной)\n-
+UID:61564b1a-afd9-4730-82ba-245c53459057@6156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-319 73215\nЭкипаж: Андрюкова Е.А. (130019) Киселев Н.А. (89727)
+DTEND:20260803T075000Z
+DTSTART:20260802T234000Z
+SUMMARY:ФВ6111/ФВ6112\nПУЛКОВО-1 / НВАРТОВС / ПУЛКОВО-1
+UID:0a47f8d2-53ae-4eb0-957f-9270d8c990d0@0a47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-320 73217\nЭкипаж: Андрюкова Е.А. (130019) Филимонов А.Ю. (85111)
+DTEND:20260805T161000Z
+DTSTART:20260805T101000Z
+SUMMARY:ФВ6595/ФВ6596\nПУЛКОВО-1 / КАЗАНЬ / ПУЛКОВО-1
+UID:44cc4087-0e25-4f7c-aa3a-dc292db0bbe8@44cc.org
 END:VEVENT
 END:VCALENDAR
