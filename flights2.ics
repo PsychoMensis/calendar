@@ -2,66 +2,80 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ВС: \nЭкипаж: 
-DTEND:20261007T230000Z
-DTSTART:20261007T110000Z
-SUMMARY:РЕЗЕРВ Сочи\nСочи
-UID:17073a87-6f3b-4a96-ac02-624d53152c31@1707.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н\nЭкипаж: Андрюкова Е.А. (130019) Булгаков И.С. (124399) Ионкин В.А. (128031) Пичков А.А. (127536) Филимонова К.А. (130219) Шмелев Д.А. (31007)
-DTEND:20261024T122500Z
-DTSTART:20261021T130500Z
-SUMMARY:ФВ6115п/FV6945/FV6946/ФВ6118п\nПУЛКОВО-1 / ГУМРАК-C2
-UID:e41ef24b-4fd5-4cbc-a4cf-26b8c1d39837@e41e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
-DTEND:20261029T142000Z
-DTSTART:20261029T051000Z
-SUMMARY:ФВ6355/ФВ6356\nПУЛКОВО-1 / МИНВОДЫ / ПУЛКОВО-1
-UID:4929e35e-8bff-4d9f-96bf-b41d967a19b8@4929.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261020
-DESCRIPTION:ВС: \nЭкипаж: 
-SUMMARY:ВПЗ (выходной)\n-
-UID:e2f69ee3-767e-426a-a85f-ed90e4032d06@e2f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Расторопов Е.В. (25309)
-DTEND:20261026T033500Z
-DTSTART:20261025T195000Z
-SUMMARY:ФВ6441/ФВ6442\nПУЛКОВО-1 / СУРГУТ / ПУЛКОВО-1
-UID:36f56c95-02c1-4eb7-b641-d4242a69f364@36f5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ВС: С9Н 89173 / 73205 / 89148\nЭкипаж: Андрюкова Е.А. (130019) Астротин А.А. (89736) Волков В.Н. (123991) Петерс Е.А. (122254) Сысоев Л.С. (129207) Чернобаев Д.В. (128633)
 DTEND:20261003T122500Z
 DTSTART:20260930T130500Z
 SUMMARY:ФВ6115п/FV6945/FV6946/ФВ6118п\nПУЛКОВО-1 / ГУМРАК-C2
-UID:27ea1349-9724-49f8-adc1-5dcea34657e7@27ea.org
+UID:f4846a1b-a132-4035-9add-3d288b8e202e@f484.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Лаптев В.И. (36623)
-DTEND:20261031T184000Z
-DTSTART:20261031T093500Z
-SUMMARY:ФВ6357/ФВ6358\nПУЛКОВО-1 / МИНВОДЫ / ПУЛКОВО-1
-UID:ba1e6b6a-cf0f-411e-81ae-d0c9d5060ccb@ba1e.org
+DESCRIPTION:ВС: \nЭкипаж: 
+DTEND:20261007T230000Z
+DTSTART:20261007T110000Z
+SUMMARY:РЕЗЕРВ Сочи\nСочи
+UID:abc08399-8523-411c-8922-1e6c86b3a794@abc0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: A-32A 73213 / 73216\nЭкипаж: Андрюкова Е.А. (130019) Пугач О.Н. (87793)
+DESCRIPTION:ВС: A-32A 73213 / 73200\nЭкипаж: Андрюкова Е.А. (130019) Пугач О.Н. (87793)
 DTEND:20261008T220000Z
 DTSTART:20261006T121000Z
 SUMMARY:ФВ6565/ФВ6566\nПУЛКОВО-1 / СОЧИ / ПУЛКОВО-1
-UID:b248e68d-27d9-4f8a-bc2c-2f67f281ee4a@b248.org
+UID:55b6ec32-f9bd-49e9-9619-33b0062e3eea@55b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВС: А-319 73222\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
 DTEND:20261004T154000Z
 DTSTART:20261004T072000Z
 SUMMARY:ФВ6065/ФВ6066\nПУЛКОВО-1 / МАХАЧКАЛ / ПУЛКОВО-1
-UID:c78fbda7-5a85-4c0f-88a9-1472ffdfb4f8@c78f.org
+UID:d5be7dcc-a40b-41f5-879d-0de132fa6bb2@d5be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261020
+DESCRIPTION:ВС: \nЭкипаж: 
+SUMMARY:ВПЗ (выходной)\n-
+UID:4a6e09bc-2d0a-49bf-bc4e-8fe885790ffe@4a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н\nЭкипаж: Андрюкова Е.А. (130019) Булгаков И.С. (124399) Ионкин В.А. (128031) Пичков А.А. (127536) Филимонова К.А. (130219) Шмелев Д.А. (31007)
+DTEND:20261024T122500Z
+DTSTART:20261021T130500Z
+SUMMARY:ФВ6115п/FV6945/FV6946/ФВ6118п\nПУЛКОВО-1 / ГУМРАК-C2
+UID:2074520a-2556-4281-abd9-3175251fa1b0@2074.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A\nЭкипаж: Андрюкова Е.А. (130019) Шувариков Н.А. (51450)
+DTEND:20261029T142000Z
+DTSTART:20261029T051000Z
+SUMMARY:ФВ6355/ФВ6356\nПУЛКОВО-1 / МИНВОДЫ / ПУЛКОВО-1
+UID:cc3b5897-ff68-4fb1-b23b-374aeaa0d623@cc3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A 73213\nЭкипаж: Андрюкова Е.А. (130019) Мелимка А.Р. (20218) Сараджев Э.Р. (90546)
+DTEND:20261011T073000Z
+DTSTART:20261010T210500Z
+SUMMARY:ФВ6829/ФВ6830\nПУЛКОВО-1 / ГОРНОАЛТ / ПУЛКОВО-1
+UID:a332882f-4873-46c8-81fa-8c498e6a64b8@a332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Лаптев В.И. (36623)
+DTEND:20261031T184000Z
+DTSTART:20261031T093500Z
+SUMMARY:ФВ6357/ФВ6358\nПУЛКОВО-1 / МИНВОДЫ / ПУЛКОВО-1
+UID:17c81ebd-e960-4c90-aef1-82899ffc896a@17c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A / А-319 / А-320\nЭкипаж: Киричек М.С. (88472)  \rАндрюкова Е.А. (130019)
+DTEND:20261010T050000Z
+DTSTART:20261009T170000Z
+SUMMARY:LED ночной резерв A320 МВЛ ДОМ\nПЛК
+UID:c535e8ee-0f2e-4c89-9a35-ce9169f98b05@c535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: А-319\nЭкипаж: Андрюкова Е.А. (130019) Расторопов Е.В. (25309)
+DTEND:20261026T033500Z
+DTSTART:20261025T195000Z
+SUMMARY:ФВ6441/ФВ6442\nПУЛКОВО-1 / СУРГУТ / ПУЛКОВО-1
+UID:13e01331-55c2-4d58-9b46-999d474f9892@13e0.org
 END:VEVENT
 END:VCALENDAR
