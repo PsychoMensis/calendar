@@ -2,176 +2,146 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89177\nЭкипаж: Пронин М.Г. (106847) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
+DESCRIPTION:ВС: СУ95 89124\nЭкипаж: Рахманов Н.З. (130051) Ушаков А.В. (122203)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261102T200500Z
+DTSTART:20261102T160000Z
+SUMMARY:ФВ6181/ФВ6182\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:64982cb6-ddfb-4fc9-af06-81441bddf180@6498.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261111
+DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 21:00
+SUMMARY:ВПл (выходной)\n-
+UID:e5a169db-edbf-4145-b073-dd8a70321699@e5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89177\nЭкипаж: Пронин М.Г. (106847) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
 DTEND:20261117T083500Z
 DTSTART:20261116T213500Z
 SUMMARY:ФВ6453/ФВ6454\nПУЛКОВО-1 / ОРЕНБУРГ / ПУЛКОВО-1
-UID:4b06de05-191f-4d59-8824-7b98acc6324b@4b06.org
+UID:01bdd906-e724-443b-86bd-ef5d08f2613c@01bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89172\nЭкипаж: Андрианов М.С. (121448) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261129T145000Z
-DTSTART:20261129T095500Z
-SUMMARY:ФВ6113/ФВ6114\nПУЛКОВО-1 / НИЖНОВГР / ПУЛКОВО-1
-UID:ba4cc9a7-743c-4896-811c-462805f23f49@ba4c.org
+DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 21:00
+DTEND:20261120T130000Z
+DTSTART:20261120T070000Z
+SUMMARY:НП FFS (у)\nСПб\, ул.Пилотов 18\, к.4\, каб.262
+UID:84b46c35-f8c8-4dbb-b149-a4c8a63f43fd@84b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89172 / 89169\nЭкипаж: Рагрин Р.Г. (77846) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261101T205500Z
+DTSTART:20261101T145500Z
+SUMMARY:ФВ6237/ФВ6238\nПУЛКОВО-1 / САМАРАКР / ПУЛКОВО-1
+UID:dab2a61e-2241-4b53-bd8b-a2eb804fd6b1@dab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 89127\nЭкипаж: Рахманов Н.З. (130051) Феоктистов Р.А. (125064)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261126T173500Z
+DTSTART:20261126T133000Z
+SUMMARY:ФВ6019/ФВ6020\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:643005aa-dde8-434d-a7bf-0e0b2a77364b@6430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: A-32A 73196 / 89174 / 89170\nЭкипаж: Кизер А.Л. (76427) Рахманов Н.З. (130051) Рябов Г.В. (127670) Симанов С.А. (121051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261110T202000Z
+DTSTART:20261107T183500Z
+SUMMARY:ФВ6573п/ФВ6675/ФВ6676/ФВ6799/ФВ6404\nПУЛКОВО-1 / КРАСНЯРС-1
+UID:0b3705c6-bc9a-4ca2-8fb3-0fa42c81cee0@0b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89170\nЭкипаж: Бортников А.В. (126450) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261122T185500Z
+DTSTART:20261122T141500Z
+SUMMARY:ФВ6329/ФВ6330\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
+UID:1c00cf50-c085-48cb-b3ac-6765abbf0157@1c00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 21:00
+SUMMARY:ВПл (выходной)\n-
+UID:b79da50b-cfb5-4d6b-a20a-8af2b093b333@b79d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
-DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 12:37
+DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 21:00
 SUMMARY:ВПл (выходной)\n-
-UID:c41c87d6-98ca-4966-8c17-d608b0e7337a@c41c.org
+UID:c75524ad-de4d-4668-bf8a-30e76b03043e@c755.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261125
-DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 12:37
+DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 21:00
 SUMMARY:ВПЗ (выходной)\n-
-UID:b73f6583-9a58-428a-8122-7ce36a739135@b73f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 12:37
-DTEND:20261120T130000Z
-DTSTART:20261120T070000Z
-SUMMARY:НП FFS (у)\nСПб\, ул.Пилотов 18\, к.4\, каб.262
-UID:6e45c119-5038-461e-9f11-2ee47b53004c@6e45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89104\nЭкипаж: Попов Э.С. (123438) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261113T110500Z
-DTSTART:20261113T070000Z
-SUMMARY:ФВ6007/ФВ6008\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:40634b67-dee2-4451-a5f7-a1b7fc5a7eb4@4063.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261111
-DESCRIPTION:ВС: A-32A 73196 / 89174 / 89170\nЭкипаж: Кизер А.Л. (76427) Рахманов Н.З. (130051) Рябов Г.В. (127670) Симанов С.А. (121051)
-SUMMARY:ФВ6573п/ФВ6675/ФВ6676/ФВ6799/ФВ6404\nПУЛКОВО-1 / КРАСНЯРС-1
-UID:a2071f5d-448d-4bc9-bf1a-337a3d4d698c@a207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89115\nЭкипаж: Рахманов Н.З. (130051) Тагиров Р.З. (84826)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261114T100500Z
-DTSTART:20261114T060000Z
-SUMMARY:ФВ6005/ФВ6006\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:16f4a373-609a-4ba7-9cbc-f9b5050b9189@16f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261108T213500Z
-DTSTART:20261108T193000Z
-SUMMARY:ФВ6676\nОМСК - КРАСНЯРС
-UID:85aff9ba-51ed-4da6-b82d-580994018d96@85af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89172 / 89169\nЭкипаж: Рагрин Р.Г. (77846) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261101T205500Z
-DTSTART:20261101T145500Z
-SUMMARY:ФВ6237/ФВ6238\nПУЛКОВО-1 / САМАРАКР / ПУЛКОВО-1
-UID:d0d61c5a-824f-4742-af54-9d8beef5a537@d0d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89100\nЭкипаж: Овешков С.О. (77887) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261127T140500Z
-DTSTART:20261127T100000Z
-SUMMARY:ФВ6027/ФВ6028\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:01c73fc9-447a-40dc-9e3c-e3381a21146b@01c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 12:37
-DTEND:20261202T201500Z
-DTSTART:20261130T053000Z
-SUMMARY:КТС - RRJ ( RT )\nRATA\, Сколково
-UID:e1f71757-5124-429d-9bbf-c8b30882dbf0@e1f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89116\nЭкипаж: Лазовский М.Д. (124435) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261106T203500Z
-DTSTART:20261106T163000Z
-SUMMARY:ФВ6017/ФВ6018\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:612865ed-03a6-4d1c-b382-062b7086d1ce@6128.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89043\nЭкипаж: Рахманов Н.З. (130051) Сучков А.Н. (20335)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261119T110000Z
-DTSTART:20261119T060500Z
-SUMMARY:ФВ6105/ФВ6106\nПУЛКОВО-1 / НИЖНОВГР / ПУЛКОВО-1
-UID:a4081bdb-edc6-4926-8668-1a2c97ee20e6@a408.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89172\nЭкипаж: Андрианов М.С. (121448) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261121T191500Z
-DTSTART:20261121T141500Z
-SUMMARY:ФВ6329/ФВ6330\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
-UID:1b792898-6429-4011-8cf2-f540a6105493@1b79.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261111
-DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 12:37
-SUMMARY:ВПл (выходной)\n-
-UID:d8ada5ba-001b-4926-b16a-1f1bb856ce85@d8ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: С9Н 89170\nЭкипаж: Бортников А.В. (126450) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261122T185500Z
-DTSTART:20261122T141500Z
-SUMMARY:ФВ6329/ФВ6330\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
-UID:70df013b-2a95-480f-a77f-b845dc7f2a23@70df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89124\nЭкипаж: Рахманов Н.З. (130051) Ушаков А.В. (122203)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261102T200500Z
-DTSTART:20261102T160000Z
-SUMMARY:ФВ6181/ФВ6182\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:b6224d8e-234d-4c0c-b918-e6259b4d59aa@b622.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89101\nЭкипаж: Пронин М.Г. (106847) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261115T120500Z
-DTSTART:20261115T080000Z
-SUMMARY:ФВ6009/ФВ6010\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:5f7f71bb-d2bf-4944-8b6e-c7304defbdb1@5f7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261110T202000Z
-DTSTART:20261110T171500Z
-SUMMARY:ФВ6404\nЕКАТЕРИН - ПУЛКОВО
-UID:9e126f12-31d9-4f5c-8b81-dbb6a9cda819@9e12.org
+UID:1207c0e4-36d9-4519-89f7-e9ec1866e591@1207.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
-DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 12:37
+DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 21:00
 SUMMARY:ВПл (выходной)\n-
-UID:f7ea4095-a5b6-4bdf-9afd-e23a57eaa8c3@f7ea.org
+UID:1e3cbb90-2d10-47b8-861b-8da141af234e@1e3c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261104
-DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 12:37
-SUMMARY:ВПл (выходной)\n-
-UID:8fd4027d-75e8-43df-aac3-c6a06df952b9@8fd4.org
+DESCRIPTION:ВС: СУ95 89115\nЭкипаж: Рахманов Н.З. (130051) Тагиров Р.З. (84826)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261114T100500Z
+DTSTART:20261114T060000Z
+SUMMARY:ФВ6005/ФВ6006\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:0c0fea93-c78c-41bf-937c-2a55529d5a51@0c0f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261107T232500Z
-DTSTART:20261107T183500Z
-SUMMARY:(PAX) ФВ6573\nПУЛКОВО - КРАСНЯРС
-UID:3f42abe1-9d05-42ff-9229-3b6f676ba25a@3f42.org
+DESCRIPTION:ВС: С9Н 89172\nЭкипаж: Андрианов М.С. (121448) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261121T191500Z
+DTSTART:20261121T141500Z
+SUMMARY:ФВ6329/ФВ6330\nПУЛКОВО-1 / КАЛИНГРД / ПУЛКОВО-1
+UID:4ef1af3b-8ce8-445b-830d-62b30d40879a@4ef1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261108T183000Z
-DTSTART:20261108T160500Z
-SUMMARY:ФВ6675\nКРАСНЯРС - ОМСК
-UID:b5dc77e2-4aac-45c0-a1e6-9c5d8aafad27@b5dc.org
+DESCRIPTION:ВС: СУ95 89114\nЭкипаж: Овешков С.О. (77887) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261127T140500Z
+DTSTART:20261127T100000Z
+SUMMARY:ФВ6027/ФВ6028\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:8ee1d1dd-5959-4a71-88bc-b0614e078801@8ee1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261110T161000Z
-DTSTART:20261110T125000Z
-SUMMARY:ФВ6799\nКРАСНЯРС - ЕКАТЕРИН
-UID:80221c0b-8eb2-477f-a9e2-058962889f83@8022.org
+DESCRIPTION:ВС: СУ95 89101\nЭкипаж: Пронин М.Г. (106847) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261115T120500Z
+DTSTART:20261115T080000Z
+SUMMARY:ФВ6009/ФВ6010\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:72f9bf73-3824-4172-b438-9d35c5d1bdb7@72f9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВС: СУ95 89101\nЭкипаж: Рахманов Н.З. (130051) Феоктистов Р.А. (125064)\n\nОбновлено: 23.11.2026 12:37
-DTEND:20261126T173500Z
-DTSTART:20261126T133000Z
-SUMMARY:ФВ6019/ФВ6020\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
-UID:5e3fea4e-c9e6-40e9-98f1-6798b8d8031e@5e3f.org
+DESCRIPTION:ВС: \nЭкипаж: \n\nОбновлено: 23.11.2026 21:00
+DTEND:20261202T201500Z
+DTSTART:20261130T053000Z
+SUMMARY:КТС - RRJ ( RT )\nRATA\, Сколково
+UID:121bce50-7813-4ed1-a1bc-bfd82c3259c8@121b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 89116\nЭкипаж: Лазовский М.Д. (124435) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261106T203500Z
+DTSTART:20261106T163000Z
+SUMMARY:ФВ6017/ФВ6018\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:a22cad7e-bc1a-464c-83c4-d7b423d2c2e8@a22c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89172\nЭкипаж: Андрианов М.С. (121448) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261129T145000Z
+DTSTART:20261129T095500Z
+SUMMARY:ФВ6113/ФВ6114\nПУЛКОВО-1 / НИЖНОВГР / ПУЛКОВО-1
+UID:fa72250d-4bf4-463f-bcd4-b41ff1fa6fe4@fa72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: СУ95 89104\nЭкипаж: Попов Э.С. (123438) Рахманов Н.З. (130051)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261113T110500Z
+DTSTART:20261113T070000Z
+SUMMARY:ФВ6007/ФВ6008\nПУЛКОВО-1 / ВНУКОВО-A / ПУЛКОВО-1
+UID:6cc4e902-8ec7-4ef9-af2a-c7d986f4f17b@6cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВС: С9Н 89043\nЭкипаж: Рахманов Н.З. (130051) Сучков А.Н. (20335)\n\nОбновлено: 23.11.2026 21:00
+DTEND:20261119T110000Z
+DTSTART:20261119T060500Z
+SUMMARY:ФВ6105/ФВ6106\nПУЛКОВО-1 / НИЖНОВГР / ПУЛКОВО-1
+UID:660913c1-e178-4d3c-b0de-e9fb7810d9c9@6609.org
 END:VEVENT
 END:VCALENDAR
